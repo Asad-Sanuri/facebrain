@@ -3,7 +3,7 @@ You can put a URL of any image or upload an image from your device and it will d
 Front-end is built with React.js, back-end uses Express and Node.js, database uses Postgresql. 
 CLARIFAI is used for recognition, CLOUDINARY is used for saving uploaded images.
 
-#LIVE DEMO: [Face Brain](https://facebrain.onrender.com/)
+LIVE DEMO: [Face Brain](https://facebrain.onrender.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
